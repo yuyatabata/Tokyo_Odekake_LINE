@@ -26,4 +26,6 @@
 - LINE Bot API
 - Heroku
 - mongoDB
+参考：要件資料
+
 https://docs.google.com/presentation/d/13l3WflHkzjTQgvct9UHCgWzjCuFaiYMH41OQ7L687dw/edit?usp=sharing
