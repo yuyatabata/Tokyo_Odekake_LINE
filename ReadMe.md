@@ -7,7 +7,11 @@
 @qil2377e
 
 
-#### 要件
+## 技術要件
+- LINE Bot API
+- Heroku
+- mongoDB
+
 ![スクリーンショット 2019-11-08 9 20 15](https://user-images.githubusercontent.com/27131456/68438952-35469200-0209-11ea-830a-64ad01d31431.png)
 
 
@@ -25,15 +29,5 @@
 - ニーズ指標に基づいて、何かしらの方法で、おススメスポットを決める
 - おススメスポットを提案する
 
-## 課題の進め方について
-
-- いきなりLINE でやろうとすると、バグが起こったときに追跡がしにくくなる
-- そのため、まずは上記の課題を手元で実装する。実装がうまくできたら、LINE で動くように移植する
-
-## 技術要件
-- LINE Bot API
-- Heroku
-- mongoDB
-- 参考：要件資料
-
-https://docs.google.com/presentation/d/13l3WflHkzjTQgvct9UHCgWzjCuFaiYMH41OQ7L687dw/edit?usp=sharing
+#### 実行例
+![スクリーンショット 2019-11-08 9 26 58](https://user-images.githubusercontent.com/27131456/68439159-f2d18500-0209-11ea-8bf6-a7392e45f2d1.png)
